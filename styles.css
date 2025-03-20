@@ -1,0 +1,39 @@
+body{
+  background-color: rgb(235, 207, 241);
+
+}
+.profile-FAQs {
+  background-color: #ffffff;
+    padding: 90px;
+    border-radius: 10px;
+   
+    width: 300px;
+    margin: ;
+    margin-top: px;
+}
+.profile-paragraf {
+  font-size: 500px;
+  font-weight:lighter}
+  
+
+.profile-text {
+  font-size: 12px;
+  font-weight: bold;
+  color: #c5b1c0;
+  margin-left: 00px;
+
+
+}
+.profile-subtitle {
+  font-size: 20px;
+  font-weight: bold;
+  color: #000000;
+  margin-top: 10px;
+}
+.stars{
+  img {
+    width: 100px;  /* Ajuste o tamanho conforme necessário */
+    height: 50px; /* Certifique-se de que a altura e largura são iguais */
+   
+    object-fit: cover; /* Mantém o conteúdo da imagem ajustado ao círculo */
+  }}
