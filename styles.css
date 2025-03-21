@@ -1,15 +1,12 @@
 body{
   background-color: rgb(235, 207, 241);
-
 }
 .profile-FAQs {
   background-color: #ffffff;
     padding: 90px;
     border-radius: 10px;
-   
+
     width: 300px;
-    margin: ;
-    margin-top: px;
 }
 .profile-paragraf {
   font-size: 500px;
@@ -32,8 +29,14 @@ body{
 }
 .stars{
   img {
-    width: 100px;  /* Ajuste o tamanho conforme necessário */
+    width: 50px;  /* Ajuste o tamanho conforme necessário */
     height: 50px; /* Certifique-se de que a altura e largura são iguais */
+    margin-right: 10px;
    
     object-fit: cover; /* Mantém o conteúdo da imagem ajustado ao círculo */
   }}
+
+  .titulo{
+    display: flex;
+    
+  }
